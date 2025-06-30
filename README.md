@@ -25,6 +25,10 @@ Have fun tracking!
 
 ## Updates
 
+**Update 30 June 2025, 18:50 Game Time**:
+
+* Updated the Alt1 libraries to the latest versions to fix chat detection issues
+
 **Update 03 July 2024, 08:40 Game Time**:
 
 * Added new checks for counting loot bags and Clawdia kills
